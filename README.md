@@ -84,7 +84,7 @@ Toutes les fonctionnalités ne sont pas obligatoires mais l'ensemble de vos fonc
 
 ## Modalité de l'examen Q3
 
-- **Date butoir : le 14 août 2026 à 18h maximum.**
+- **Date butoir : le 20 août 2026 à 18h maximum.**
 - Si vous n'avez pas réussi à obtenir la moyenne à l'examen Q1, vous devrez remettre une version améliorée de votre projet.
 - Si vous ne souhaitez **pas modifier le code** de votre projet, vous le pouvez : vous obtiendrez alors **la même note de projet** que celle reçue au Q1 (si une note vous a été attribuée).
 - Vous pouvez continuer à travailler en équipe ou seul pour améliorer votre projet. Vous devrez remettre votre projet sur GitHub pour la date butoir indiquée ci-dessus. Si vous n'avez pas de repository GitHub, je dois vous le créer pour vous (merci alors de le demander pour **le 7 août 2026** au plus tard).
@@ -92,7 +92,7 @@ Toutes les fonctionnalités ne sont pas obligatoires mais l'ensemble de vos fonc
 - L'énoncé de projet reste le même (fonctionnalités et livrables). 
 - Vous devrez également remettre une documentation textuelle expliquant les améliorations que vous avez apportées à votre projet depuis le Q1 (le cas échéant).
 - Vous devrez remettre **une seule vidéo** de présentation de votre projet (une vidéo par groupe, pas une vidéo par membre). Cette vidéo doit expliquer rapidement les fonctionnalités mises en place, l'architecture de votre code et montrer l'application en fonctionnement. **Si vous avez continué un projet remis en Q1, la vidéo doit surtout mettre en avant les modifications et améliorations apportées depuis le Q1** (en complément d'un bref rappel du contexte). Vous mettrez le lien de la vidéo dans le fichier `README.md` de votre projet.
-- Tout ce qui précède est obligatoire pour réussir l'examen Q3 et doit être rendu pour **le 14 août 2026 à 18h maximum**.
+- Tout ce qui précède est obligatoire pour réussir l'examen Q3 et doit être rendu pour **le 20 août 2026 à 18h maximum**.
 - Vous passerez un examen oral par groupe. Chaque membre du groupe doit être capable d'expliquer l'ensemble du code du projet, les tests, la documentation, etc. Chaque membre devra aussi répondre à des questions sur les technologies utilisées, les choix que vous avez faits, les difficultés rencontrées, etc. Vous devez également être capable de montrer votre application en fonctionnement.
 - Prenez chacun vos ordinateurs portables pour l'examen oral. Vous serez potentiellement interrogés simultanément via une application en ligne.
 - Les interrogations durant l'année sont oubliées et le projet pour 40% et l'examen pour 60% de la note finale.
